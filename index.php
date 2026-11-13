@@ -1,4 +1,4 @@
-<?php  
+<?php 
 include 'bdd.php';
 ?>
 
@@ -15,7 +15,7 @@ include 'bdd.php';
 </head>
 <body>
 
-    <h2 style="text-align: center;">Liste de mon matériel sono</h2>
+    <h2 style="text-align: center;">Liste de mon matériel de sono</h2>
 
     <table>
         <tr>
